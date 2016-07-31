@@ -1,0 +1,1 @@
+cmd_/home/test/study/memchecker/kmemchecker.o := ld -m elf_x86_64   -r -o /home/test/study/memchecker/kmemchecker.o /home/test/study/memchecker/device.o /home/test/study/memchecker/hook.o /home/test/study/memchecker/trackmem.o /home/test/study/memchecker/main.o 
